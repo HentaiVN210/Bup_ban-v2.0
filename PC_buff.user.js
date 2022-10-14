@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bú bẩn thịnh hành
 // @namespace    https://hentaivn.la/
-// @updateURL    
+// @updateURL    https://github.com/HentaiVN210/Bup_ban-v2.0/raw/main/PC_buff.user.js
 // @version      2.0.0
 // @description  Bú bú bú
 // @author       Ừ em
