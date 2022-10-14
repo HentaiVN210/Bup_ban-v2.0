@@ -9,7 +9,7 @@ Bấm F5 mỏi tay quá nên tôi viết cái script để đỡ phải bấm nh
 
 # Install
 1. Cài đặt [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
-2. Nhấp [vào đây nếu dùng PC]() hoặc [vào đây nếu dùng điện thoại]() và bấm `Install` để cài đặt script.
+2. Nhấp [vào đây nếu dùng PC](https://github.com/HentaiVN210/Bup_ban-v2.0/raw/main/PC_buff.user.js) hoặc [vào đây nếu dùng điện thoại](https://github.com/HentaiVN210/Bup_ban-v2.0/raw/main/MB_buff.user.js) và bấm `Install` để cài đặt script.
 
 # Usage
 Vào truyện nào đó mà dùng thử → Tự hiểu cách dùng (và nhớ phải đăng nhập acc vào mới dùng được)!
