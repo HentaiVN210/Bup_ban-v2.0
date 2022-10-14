@@ -2,7 +2,7 @@
 // @name         Bú bẩn thịnh hành
 // @namespace    https://hentaivn.la/
 // @updateURL    https://github.com/HentaiVN210/Bup_ban-v2.0/raw/main/PC_buff.user.js
-// @version      2.0.0
+// @version      2.0.1
 // @description  Bú bú bú
 // @author       Ừ em
 // @include      *
@@ -25,7 +25,7 @@ function buff(n) {
 
 document.addEventListener ("DOMContentLoaded", function(){
     if(!document.URL.includes("doc-truyen")){
-        return console.log("idle...");
+        return console.log("idle..");
     };
     console.log("sẵn sàng bú bẩn")
     const page = document.querySelector('.page-info');
