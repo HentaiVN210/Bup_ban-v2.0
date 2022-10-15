@@ -2,6 +2,7 @@
 Bấm F5 mỏi tay quá nên tôi viết cái script để đỡ phải bấm nhiều.
 
 # UPDATE & NEWS
+- Các bố bú bẩn loạn quá nên web fix cmnr =))~ đợi kiếm bug khác rồi bú bẩn tiếp nhé
 - ~~Vì một lý do củ c*c nào đó mà tôi vẫn chưa rõ, tạm thời phiên bản mobile không hoạt động (búp chán chê không lên top), còn PC vẫn bình thường nhé.~~ Đã FIX
 - Tách riêng PC và mobile cho nó nhiều.
 - Thêm nút `Xoá` (bỏ theo dõi) ngay tại trang truyện.
