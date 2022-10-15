@@ -2,7 +2,7 @@
 // @name         Bú bẩn thịnh hành
 // @namespace    https://hentaivn.la/
 // @updateURL    https://github.com/HentaiVN210/Bup_ban-v2.0/raw/main/PC_buff.user.js
-// @version      2.5.5
+// @version      2.5.7
 // @description  Bú bú bú
 // @author       Ừ em
 // @include      *
@@ -54,10 +54,6 @@ document.addEventListener ("DOMContentLoaded", function(){
             };
         }
         catch(e){
-            if(confirm("Xong! Bạn có muốn xoá truyện này khỏi danh sách theo dõi ngay không?")){
-                doRemove(id,'remove');
-                alert("Đã xoá!");
-            };
             console.log(e);
         };
     });
