@@ -29,7 +29,7 @@ document.addEventListener ("DOMContentLoaded", function(){
     };
     console.log("sẵn sàng bú bẩn")
     const page = document.querySelector('.page-info');
-    const id = document.querySelector("#myInputxxx").value;
+    const id = document.querySelector("#myInputxx").value;
     var newScript = document.createElement("script");
     newScript.innerHTML = `function doRead(o,t){$("#imgLoader_"+o).css("width","92px"),$.post("ajax_bookmark_topic.php",{book_id:o,book_type:t},function(t){$(".read_"+o).html(t)})},function(t){$(".remove_"+o).html(t)})}`;
     page.prepend(newScript);
