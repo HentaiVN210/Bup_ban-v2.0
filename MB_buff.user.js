@@ -2,7 +2,7 @@
 // @name         Bú bẩn thịnh hành
 // @namespace    https://hentaivn.la/
 // @updateURL    https://github.com/HentaiVN210/Bup_ban-v2.0/raw/main/MB_buff.user.js
-// @version      2.5.1
+// @version      2.5.7
 // @description  Bú bú bú
 // @author       Ừ em
 // @include      *
@@ -14,7 +14,7 @@
 // ==/UserScript==
 
 function buff(n) {
-    const id = document.querySelector("#myInputxxx").value;
+    const id = document.querySelector("#myInputxx").value;
     for (let i = 1; i<=n; i++){
         let dom = document.querySelector(".bookmark")
         dom.innerHTML = `<span class="bookmarks"><a id="click" href="javascript" onclick="DoAction(id,'bookmark');">Theo dõi ngay</a></span>`
@@ -56,10 +56,6 @@ document.addEventListener ("DOMContentLoaded", function(){
             };
         }
         catch(e){
-            if(confirm("Xong! Bạn có muốn xoá truyện này khỏi danh sách theo dõi ngay không?")){
-                DoRemove(id,'remove');
-                alert("Đã xoá!");
-            };
             console.log(e);
         }
     });
