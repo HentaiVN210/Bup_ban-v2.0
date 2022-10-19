@@ -2,7 +2,7 @@
 // @name         Bú bẩn thịnh hành
 // @namespace    https://hentaivn.la/
 // @updateURL    https://github.com/HentaiVN210/Bup_ban-v2.0/raw/main/PC_buff.user.js
-// @version      2.5.7
+// @version      2.6.5
 // @description  Bú bú bú
 // @author       Ừ em
 // @include      *
